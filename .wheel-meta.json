@@ -1,0 +1,22 @@
+{
+  "wheel_id": 875,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-157",
+  "project": "property-management-sunshine-coast-before-you-start-92022f576df",
+  "parent_t1_ref": "propertymanagersunshinecoast-018",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast before you start",
+  "intended_url": "https://sitesau.github.io/propertymanagersunshinecoast-157/",
+  "tier": "T2",
+  "writeback_nonce": "b844732fffc3d84b",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/property-management-sunshine-coast/",
+      "anchor": "Property Management Sunshine Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
